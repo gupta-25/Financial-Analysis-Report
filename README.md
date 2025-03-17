@@ -14,7 +14,7 @@ The primary goal of this dashboard is to analyze financial performance by:
 
 
 
-**Conclusion:** 
+**⌛ Conclusion:** 
  This dashboard provides valuable insights into financial performance, **helping businesses optimize profitability, pricing strategies, and market focus**. By identifying top-performing countries, segments, and products, decision-makers can allocate resources more efficiently and improve overall business outcomes.
 
 
